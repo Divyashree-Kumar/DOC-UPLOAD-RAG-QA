@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# ChromaDB
+chroma_db/
+
+# Uploaded documents
+backend/uploads/
+
+# Backend backup
+backend_backup/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
